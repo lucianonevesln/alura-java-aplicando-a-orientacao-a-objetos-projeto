@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496ba089-6237-401a-ae88-f41e809ea406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alura_java_aplicando_a_orientacao_a_objetos_projeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianonevesln/modelos/Audio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianonevesln/modelos/Musica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianonevesln/modelos/Podcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianonevesln/modelos/Preferencias.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianonevesln/principal/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="496ba089-6237-401a-ae88-f41e809ea406" name="Changes" comment="Primeiro commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +45,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683294713321</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro commit">
+      <created>1683301675109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683301675109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
   </component>
 </project>
